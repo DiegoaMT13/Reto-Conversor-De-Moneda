@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class InicioDeApp {
+public class InicioDeLaApp {
     public static void main(String[] args) throws IOException, InterruptedException {
 
         Scanner lectura = new Scanner(System.in);

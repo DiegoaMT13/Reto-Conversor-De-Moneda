@@ -2,13 +2,13 @@ package com.aluraCursos.salidas;
 
 
 import com.aluraCursos.mensajes.Mensajes;
-import com.aluraCursos.InicioDeApp;
+import com.aluraCursos.InicioDeLaApp;
 
 import java.io.IOException;
 
 public class Salida {
 
-    InicioDeApp inicioDeApp = new InicioDeApp();
+    InicioDeLaApp inicioDeLaApp = new InicioDeLaApp();
     private static Mensajes mensaje = new Mensajes();
 
     public static boolean validarPaisSeleccionado(int paisSeleccionado) throws IOException, InterruptedException {
@@ -20,7 +20,7 @@ public class Salida {
             return true; // Salida
         }
         if (paisSeleccionado == 14) {
-            InicioDeApp.main(new String[0]); // Ejecutar la clase ListaProductos
+            InicioDeLaApp.main(new String[0]); // Ejecutar la clase ListaProductos
             return true; // Continuar en otra parte
         }
         return false; // País válido
@@ -35,7 +35,7 @@ public class Salida {
             return true; // Salida
         }
         if (paisDestino == 14) {
-            InicioDeApp.main(new String[0]); // Ejecutar la clase ListaProductos
+            InicioDeLaApp.main(new String[0]); // Ejecutar la clase ListaProductos
             return true; // Continuar en otra parte
         }
         return false; // País válido
