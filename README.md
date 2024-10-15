@@ -59,6 +59,7 @@ esta app se caracteriza por que tiene enlazadas 2 Apis diferentes por si una fal
 3- El país destino (Enter)
 podrás ver el resultado del cambio y guardarlo.
 luego podrás seguir guardando, convirtiendo diferentes tipos de moneda y al finalizar o salir podrás ver el historial de las consultas.
+-
 ![image](https://raw.githubusercontent.com/DiegoaMT13/Reto-Conversor-De-Moneda/refs/heads/main/MonedaConvercion/Img/ConversorDeMoneda.jpg)
 
 
