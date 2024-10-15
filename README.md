@@ -5,6 +5,9 @@
 - Se caracteriza por tener por tener respaldo de entre las APIS
 - Se caracteriza por Lista de productos. 
 
+- Planimetria de la APP.
+<div align="center"><img src="[https://cdn.prod.website-files.com/5f5a53e153805db840dae2db/64e79ca5aff2fb7295bfddf9_github-que-es.jpg](https://drive.google.com/file/d/1YKOaUluMBQBNJ1Qo8eIra9D5yd6pG9Nu/view)" width="200"/></div>
+
 
 - Lo primero es descargar la APP.
 
@@ -35,8 +38,6 @@ En esta app te encuentras con tres opciones.
 	(Ver tu historial de la lista de productos resumida)
 
 
-La app funciona con un menú inicial en el cual puedes seleccionar entre dos casas de cambio luego te envía al siguiente menú en el cual puedes seleccionar entre un listado de países, 
-
 
 
 
@@ -53,21 +54,21 @@ esta app se caracteriza por que tiene enlazadas 2 Apis diferentes por si una fal
 ![image](https://raw.githubusercontent.com/DiegoaMT13/Reto-Conversor-De-Moneda/refs/heads/main/MonedaConvercion/Img/MenuPrincipal.jpg)
 
 - Menú conversor de moneda
-1- Empezando por elegir el país origen 
-2- El valor que desea convertir
-3- El país destino
+1- Empezando por elegir el país origen (Enter)
+2- El valor que desea convertir (Enter)
+3- El país destino (Enter)
 podrás ver el resultado del cambio y guardarlo.
 luego podrás seguir guardando, convirtiendo diferentes tipos de moneda y al finalizar o salir podrás ver el historial de las consultas.
 ![image](https://raw.githubusercontent.com/DiegoaMT13/Reto-Conversor-De-Moneda/refs/heads/main/MonedaConvercion/Img/ConversorDeMoneda.jpg)
 
 
 - Menú lista de productos
-1- Empezando por elegir el país origen 
-2- El nombre del producto
-3- El valor que desea convertir
+1- Empezando por elegir el país origen (Enter)
+2- El nombre del producto (Enter)
+3- El valor que desea convertir (Enter)
 podrás ver el resultado del cambio y guardarlo.
 luego podrás seguir guardando convirtiendo diferentes tipos de productos y al finalizar o salir podrás ver el historial de las consultas.
-
+Para finalizar cerrando el programa la opción (16).
 ![image](https://raw.githubusercontent.com/DiegoaMT13/Reto-Conversor-De-Moneda/refs/heads/main/MonedaConvercion/Img/ConvertirProductoResumen.jpg)
 
 
