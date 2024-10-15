@@ -1,0 +1,167 @@
+[
+  {
+    "Valor Ingresado": "500.0",
+    "Producto": "pan",
+    "Destinos": [
+      {
+        "Pais de Destino": "Estados_unidos",
+        "Resultado de la Conversion": "0,12"
+      },
+      {
+        "Pais de Destino": "Europa",
+        "Resultado de la Conversion": "0,11"
+      },
+      {
+        "Pais de Destino": "Argentina",
+        "Resultado de la Conversion": "116,65"
+      },
+      {
+        "Pais de Destino": "Bolivia",
+        "Resultado de la Conversion": "0,82"
+      },
+      {
+        "Pais de Destino": "Brasil",
+        "Resultado de la Conversion": "0,67"
+      },
+      {
+        "Pais de Destino": "Canada",
+        "Resultado de la Conversion": "0,16"
+      },
+      {
+        "Pais de Destino": "Chile",
+        "Resultado de la Conversion": "110,5"
+      },
+      {
+        "Pais de Destino": "Colombia",
+        "Resultado de la Conversion": "500"
+      },
+      {
+        "Pais de Destino": "paraguay",
+        "Resultado de la Conversion": "931,25"
+      },
+      {
+        "Pais de Destino": "Mexico",
+        "Resultado de la Conversion": "2,3"
+      },
+      {
+        "Pais de Destino": "Peru",
+        "Resultado de la Conversion": "0,44"
+      },
+      {
+        "Pais de Destino": "Uruguay",
+        "Resultado de la Conversion": "4,98"
+      }
+    ],
+    "Pais de Origen": "Colombia"
+  },
+  {
+    "Valor Ingresado": "4000.0",
+    "Producto": "leche",
+    "Destinos": [
+      {
+        "Pais de Destino": "Estados_unidos",
+        "Resultado de la Conversion": "0,95"
+      },
+      {
+        "Pais de Destino": "Europa",
+        "Resultado de la Conversion": "0,87"
+      },
+      {
+        "Pais de Destino": "Argentina",
+        "Resultado de la Conversion": "933,2"
+      },
+      {
+        "Pais de Destino": "Bolivia",
+        "Resultado de la Conversion": "6,6"
+      },
+      {
+        "Pais de Destino": "Brasil",
+        "Resultado de la Conversion": "5,35"
+      },
+      {
+        "Pais de Destino": "Canada",
+        "Resultado de la Conversion": "1,31"
+      },
+      {
+        "Pais de Destino": "Chile",
+        "Resultado de la Conversion": "884"
+      },
+      {
+        "Pais de Destino": "Colombia",
+        "Resultado de la Conversion": "4.000"
+      },
+      {
+        "Pais de Destino": "paraguay",
+        "Resultado de la Conversion": "7.450"
+      },
+      {
+        "Pais de Destino": "Mexico",
+        "Resultado de la Conversion": "18,36"
+      },
+      {
+        "Pais de Destino": "Peru",
+        "Resultado de la Conversion": "3,56"
+      },
+      {
+        "Pais de Destino": "Uruguay",
+        "Resultado de la Conversion": "39,82"
+      }
+    ],
+    "Pais de Origen": "Colombia"
+  },
+  {
+    "Valor Ingresado": "15000.0",
+    "Producto": "carne",
+    "Destinos": [
+      {
+        "Pais de Destino": "Estados_unidos",
+        "Resultado de la Conversion": "3,57"
+      },
+      {
+        "Pais de Destino": "Europa",
+        "Resultado de la Conversion": "3,27"
+      },
+      {
+        "Pais de Destino": "Argentina",
+        "Resultado de la Conversion": "3.499,5"
+      },
+      {
+        "Pais de Destino": "Bolivia",
+        "Resultado de la Conversion": "24,74"
+      },
+      {
+        "Pais de Destino": "Brasil",
+        "Resultado de la Conversion": "20,07"
+      },
+      {
+        "Pais de Destino": "Canada",
+        "Resultado de la Conversion": "4,92"
+      },
+      {
+        "Pais de Destino": "Chile",
+        "Resultado de la Conversion": "3.315"
+      },
+      {
+        "Pais de Destino": "Colombia",
+        "Resultado de la Conversion": "15.000"
+      },
+      {
+        "Pais de Destino": "paraguay",
+        "Resultado de la Conversion": "27.937,5"
+      },
+      {
+        "Pais de Destino": "Mexico",
+        "Resultado de la Conversion": "68,87"
+      },
+      {
+        "Pais de Destino": "Peru",
+        "Resultado de la Conversion": "13,33"
+      },
+      {
+        "Pais de Destino": "Uruguay",
+        "Resultado de la Conversion": "149,31"
+      }
+    ],
+    "Pais de Origen": "Colombia"
+  }
+]
