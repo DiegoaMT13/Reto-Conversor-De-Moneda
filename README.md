@@ -68,8 +68,9 @@ luego podrás seguir guardando, convirtiendo diferentes tipos de moneda y al fin
 3- El valor que desea convertir (Enter)
 podrás ver el resultado del cambio y guardarlo.
 luego podrás seguir guardando convirtiendo diferentes tipos de productos y al finalizar o salir podrás ver el historial de las consultas.
-Para finalizar cerrando el programa la opción (16).
+
 ![image](https://raw.githubusercontent.com/DiegoaMT13/Reto-Conversor-De-Moneda/refs/heads/main/MonedaConvercion/Img/ConvertirProductoResumen.jpg)
+Para finalizar cerrando el programa la opción (16).
 
 
 
