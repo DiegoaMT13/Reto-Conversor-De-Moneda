@@ -14,8 +14,10 @@ public class MenuProductos {
             5 - Brasil         6 - Canada    7 - Chile       8 - Colombia
             9 - Paraguay       10 - México   11 - Peru       12 - Uruguay
             
-            13 - salir         15 - Lista de productos
-            14 - volver a el menu Principal
+            13 - volver a el menu Principal         14 - Lista de productos
+           
+            15 - salir
+            16 - cerrar programa 
             
             Elije una opción válida:
             =====================================================================

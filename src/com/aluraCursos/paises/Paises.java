@@ -1,7 +1,7 @@
 package com.aluraCursos.paises;
 
 public enum Paises {
-    Estados_unidos, Europa, Argentina, Bolivia, Brasil, Canada, Chile, Colombia, paraguay, Mexico, Peru, Uruguay;
+    Estados_unidos, Europa, Argentina, Bolivia, Brasil, Canada, Chile, Colombia, paraguay, Mexico, Peru, Uruguay,;
 
     // Metodo para el Array Lista
     public static String[] names() {

@@ -3,8 +3,8 @@ package com.aluraCursos;
 import com.aluraCursos.mensajes.Mensajes;
 
 import com.aluraCursos.menuOpciones.MenuApis;
-import com.aluraCursos.principal.PrincipalApi1;
-import com.aluraCursos.principal.PrincipalApi2;
+import com.aluraCursos.principalApp.PrincipalApi1;
+import com.aluraCursos.principalApp.PrincipalApi2;
 import com.aluraCursos.urlApis.Api1;
 import com.aluraCursos.urlApis.Api2;
 import com.aluraCursos.urlApis.InterruptorApi1;
@@ -25,12 +25,12 @@ public class InicioDeApp {
 
         int opcion = 0;
 
-        while (opcion != 13) {
+        while (opcion != 15) {
             System.out.println(MenuApis.getMenuApis());
             try {
                 int paisSeleccionado = lectura.nextInt();
 
-                if (paisSeleccionado == 13) {
+                if (paisSeleccionado == 15) {
                     System.out.println(mensaje.getMensajeSalida());
                     break;
                 }

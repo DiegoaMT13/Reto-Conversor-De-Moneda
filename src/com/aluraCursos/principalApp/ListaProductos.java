@@ -1,4 +1,4 @@
-package com.aluraCursos.principal;
+package com.aluraCursos.principalApp;
 
 import com.aluraCursos.archivoGson.OrganizarProductoLista;
 import com.aluraCursos.mensajes.Mensajes;
@@ -17,7 +17,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class ListaProductos {
-    private static int salida = 13;
+    private static int salida = 15;
 
     public static void main(String[] args) throws IOException, InterruptedException {
         Scanner lectura = new Scanner(System.in);
@@ -29,11 +29,16 @@ public class ListaProductos {
 
         int opcion = 0;
 
-        while (opcion != 13) {
+        while (opcion != 15) {
             System.out.println(MenuProductos.getMenuProductos());
             try {
                 int paisSeleccionado = lectura.nextInt();
                 lectura.nextLine(); // Limpiar el buffer
+                // Verificar si el usuario quiere salir ingresando 16
+                if (paisSeleccionado == 16) {
+                    System.out.println("Cerrando el programa. ¡Hasta luego!");
+                    System.exit(0); // Cerrar el programa
+                }
 
                 if (Salida.validarPaisSeleccionado(paisSeleccionado)) {
                     continue; // Continuar si es la opción de salida
@@ -49,10 +54,10 @@ public class ListaProductos {
 
                 System.out.println("=====================================================================");
                 while (true) {
-                    System.out.println("Escribe el nombre del producto (o 13 para salir): ");
+                    System.out.println("Escribe el nombre del producto (o 15 para salir): ");
                     String producto = lectura.nextLine();
 
-                    if (producto.equals("13")) {
+                    if (producto.equals("15")) {
                         break; // Salir del ciclo de productos
                     }
 
