@@ -6,7 +6,7 @@
 - Se caracteriza por Lista de productos. 
 
 - Planimetria de la APP.
-<div align="center"><img src="[https://cdn.prod.website-files.com/5f5a53e153805db840dae2db/64e79ca5aff2fb7295bfddf9_github-que-es.jpg](https://drive.google.com/file/d/1YKOaUluMBQBNJ1Qo8eIra9D5yd6pG9Nu/view)" width="200"/></div>
+<div align="center"><img src="file:///C:/Users/damt1/OneDrive/Documentos/oracool/git-y-githud/java/java-odjetos/MonedaConvercion/Img/Planimetria%20Comversor%20de%20moneda.png" width="200"/></div>
 
 
 - Lo primero es descargar la APP.
